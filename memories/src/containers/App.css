@@ -1,0 +1,12 @@
+@font-face {
+  font-family: "the_amsterdamregular";
+  src: url("the_amsterdam-webfont.woff2") format("woff2"),
+    url("the_amsterdam-webfont.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+h1 {
+  font-family: "the_amsterdamregular";
+  font-weight: 200;
+}
